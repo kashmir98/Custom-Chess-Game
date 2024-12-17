@@ -1,8 +1,6 @@
 # portfolio-project
 
-**Remember that this project cannot be submitted late.**
-
-Create a class called **ChessVar** to implement an abstract board game based on a chess variant known as Fog of War chess. The following rule explanation assumes you have some knowledge of standard chess rules, particularly regarding how the pieces move and capture. If you're unsure about any of these rules, feel free to reach out with questions.
+Creates a class called **ChessVar** to implement an abstract board game based on a chess variant known as Fog of War chess. The following rule explanation assumes you have some knowledge of standard chess rules, particularly regarding how the pieces move and capture. If you're unsure about any of these rules, feel free to reach out with questions.
 
 The game starts with the standard chess setup. You'll need to track which player's turn it is, with **white always moving first**. Pieces move and capture the same way as in standard chess, but there are **no checks, checkmates, castling, en passant, or pawn promotion**. Like in standard chess, pawns can move two spaces forward on their first move, but only one space on subsequent moves. The game ends when a player's king is captured, and that player loses.
 
