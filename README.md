@@ -93,15 +93,10 @@ True
 ]
 ```
 
-The file must be named: **ChessVar.py**
+The file is named: **ChessVar.py**
 
 
-How to Start: If you are not familiar with chess, please take a look at the Wikipedia page[(https://en.wikipedia.org/wiki/Chess)](https://en.wikipedia.org/wiki/Chess), especially focusing on how each type of piece moves on the board. Then, grab a piece of paper and draw a board on it. Mark each space with notations and label them with their respective index in the list. For instance, position ‘a8’ corresponds to index [0][0], ‘b8’ to [0][1], … ‘a7’ to [1][0], … and ‘h1’ to [7][7].
 
-Things to Think About: This project is an excellent opportunity to use inheritance, though it’s not strictly required here. 
-We require the board to be returned as a nested list, but you’re welcome to design your own board structure with additional information as needed. Just make sure to output the required board format for testing purposes.
-
-Questions to consider during the planning stage include: How will you update the board for the white and black player’s perspectives after a move? How will you find all the positions that a player’s pieces can move to, which would be the visible positions? Where is the best place to implement this step in your code to reduce redundant work?
 
 
 
